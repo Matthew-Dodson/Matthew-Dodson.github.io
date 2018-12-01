@@ -223,7 +223,7 @@ h2.slogan{
 	text-align: center;
 	text-transform: uppercase;
 	font-family: 'novecento_sans_widebook';
-	font-size: 30px;
+	font-size: 25px;
 	line-height: 32px;
 	color: #fff;
 	margin: 0 0 81px;
@@ -295,13 +295,13 @@ h2.slogan{
 	margin: 0 0 40px;
 }
 .skills_holder .column {
-	width: 470px;
+	width: 300px;
 	float: left;
-	margin: 0 10px 0 0;
+	margin: 0 50px 0 0;
 }
 .skills_holder .column.column-add {
-	float: right;
-	margin: 0;
+	float: left;
+	margin: 0 50px 0 0;
 }
 .progress{
 	overflow: hidden;
