@@ -1,0 +1,20 @@
+Matthew Dodson
+
+What is a Flyweight Design Pattern?
+The flyweight design pattern is a pattern used to save memory by storing a copy of the shared data between
+a large pool of similar objects. The data that is shared between all copies of an object is the intrinsic data (such
+as textured and mesh), while the data that is state-dependent is called extrinsic data (such as position, 
+health, ammo, etc.)
+
+List when to use this design pattern
+This design pattern is used to save memory by sharing data among similar objects, such as 
+trees, enemies, and weapons. These objects could share things like meshes and textures, which would be
+memory intensive to store many copies of these data types. 
+
+List why we don't want to use this design pattern.
+This pattern would be inefficient to use in cases were there are a lot of diverse objects with 
+little in-common between them or when there aren't that many copies being used. 
+
+Sources:
+https://sourcemaking.com/design_patterns/flyweight
+https://github.com/Naphier/unity-design-patterns/tree/master/Assets/flyweight%20pattern
