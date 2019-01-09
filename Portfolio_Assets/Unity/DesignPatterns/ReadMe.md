@@ -1,18 +1,4 @@
-Chain of Responsibility
+The Assets folder contains source code for several of my Unity 3D projects related to Design Patterns.
 
-1. What is a Chain of Responsibility Design Pattern?
-It is a design pattern wherein you pass a request through a series of classes. Each class inspects the request
-to see if it can handle it. If it cant handle the request, then it passes it to the next class in the chain [of responsibility].
-
-The design pattern is made up of a client, a handler and however many concrete handlers that are needed. 
-
-
-2. List when to use this design pattern
-This design pattern is generally used when there is a complicated set of logic for each class in the chain.
-
-3. List why we don't want to use this design pattern.
-This design pattern is unneccesary when the logic used in a program is simple enough to be fitted into
-basic logic grouping code (such as ifs, else/ifs or case statements).
-
-https://www.psclistens.com/insight/blog/the-chain-of-responsiblity-pattern-and-a-light-touch-of-the-microsoft-unity-framework/
+The Executables folder contains the executable and data files for each of the projects.
 
