@@ -7,8 +7,13 @@ and made the game wave based with a score tracker.
 To run the game, double click the SpaceRocks.swf file in the SpaceRocks V2 folder.
 
 Update History
+
 Seminar 2 - Mouse Follower & Distance Based Collsion Update
+
 Seminar 3 - Multiple Collisions Update
+
 Seminar 4 - Movement Tweaks & Sounds Update
+
 Seminar 5 - More Movement Tweaks & Sounds
+
 Seminar 6 - Wrap Up & Clean Up
